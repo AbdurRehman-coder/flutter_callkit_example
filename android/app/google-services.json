@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414496826017",
+    "project_id": "callkit-jitsi-2f19f",
+    "storage_bucket": "callkit-jitsi-2f19f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414496826017:android:507a9613fde34ad65c86e0",
+        "android_client_info": {
+          "package_name": "com.hiennv.testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIaeVv5wzZe4-afr0MtOZO_0rgzxyVGhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
